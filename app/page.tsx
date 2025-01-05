@@ -1,7 +1,16 @@
 export default function Home() {
   return (
-    <div>
-      <h1 className="text-4xl text-center text-primary">Pomodoro Timer App</h1>
+    <div className="container mx-auto px-4">
+      <h1>Pomodoro Timer</h1>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
+      <p>Unleash your productivity with the Pomodoro Technique</p>
     </div>
   );
 }
